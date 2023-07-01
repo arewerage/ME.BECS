@@ -37,7 +37,7 @@ Tested in Unity 2023.1
 ```
 "dependencies": {
     "com.unity.collections": "1.4.0",
-    "com.unity.ui": "1.0.0-preview.18",
+    "com.unity.ui": "2.0.0",
     "com.unity.jobs": "0.70.0-preview.7",
     "com.unity.burst": "1.8.4",
     "com.unity.mathematics": "1.2.6",
